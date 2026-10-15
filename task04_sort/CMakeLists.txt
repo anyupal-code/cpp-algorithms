@@ -1,0 +1,1 @@
+add_executable(task04_sort solution.cpp)

@@ -1,0 +1,1 @@
+add_executable(task03_side_diag solution.cpp)

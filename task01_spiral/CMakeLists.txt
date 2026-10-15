@@ -1,0 +1,1 @@
+add_executable(task01_spiral solution.cpp)

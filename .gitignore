@@ -1,0 +1,25 @@
+# Сборка
+build/
+cmake-build-*/
+out/
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.exe
+
+# IDE
+.idea/
+.vscode/
+*.user
+*.swp
+*~
+
+# Локальные файлы ввода-вывода
+input.txt
+output.txt
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1 @@
+add_executable(task02_pascal solution.cpp)
