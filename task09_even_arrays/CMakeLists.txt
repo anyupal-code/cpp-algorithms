@@ -1,0 +1,1 @@
+add_executable(task09_even_arrays solution.cpp)
