@@ -1,0 +1,1 @@
+add_executable(task06_stable_sort solution.cpp)

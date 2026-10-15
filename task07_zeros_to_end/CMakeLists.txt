@@ -1,0 +1,1 @@
+add_executable(task07_zeros_to_end solution.cpp)

@@ -1,0 +1,1 @@
+add_executable(task05_first_occurrence solution.cpp)
