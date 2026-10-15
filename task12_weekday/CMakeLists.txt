@@ -1,0 +1,1 @@
+add_executable(task12_weekday solution.cpp)
